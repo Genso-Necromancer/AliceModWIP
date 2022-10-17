@@ -1,0 +1,13 @@
+
+puppeteer.sprite.alice_legionph.png
+size: 197,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+legion
+  rotate: false
+  xy: 2, 2
+  size: 193, 84
+  orig: 193, 84
+  offset: 0, 0
+  index: -1

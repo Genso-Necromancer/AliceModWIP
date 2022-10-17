@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<PreviewIconFile>preview_icon.png</PreviewIconFile>
+	<ItemDescriptionShort/>
+	<ModDataPath>C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/AliceModWIP/</ModDataPath>
+	<Title>(non-steam)Alice - New Class Mod</Title>
+	<Language>english</Language>
+	<UpdateDetails/>
+	<Visibility>private</Visibility>
+	<UploadMode>dont_submit</UploadMode>
+	<VersionMajor>0</VersionMajor>
+	<VersionMinor>4</VersionMinor>
+	<TargetBuild>0</TargetBuild>
+	<Tags>
+		<Tags>Class Mod</Tags>
+		<Tags>Puppeteer</Tags>
+		<Tags>Touhou</Tags>
+	</Tags>
+	<ItemDescription>The Puppeteer Class Mod by Ed &quot;I love my wife very much.&quot; Boon.</ItemDescription>
+</project>
+

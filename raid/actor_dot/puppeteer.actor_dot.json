@@ -1,0 +1,296 @@
+{
+    "entries":
+    [
+        {
+            "id": "houraiFX1",
+            "update_duration_type": "after_turn_friendly",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Hourai Enable", "PPT Hourai Reverse1", "PPT Hourai DollDebuff1" ],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        },
+		{
+            "id": "shanghaiFX1",
+            "update_duration_type": "after_turn_attack",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Shanghai Enable", "PPT Shanghai Reverse1", "PPT Shanghai DollDebuff1"],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        },
+		{
+            "id": "houraiFX2",
+            "update_duration_type": "after_turn_friendly",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Hourai Enable", "PPT Hourai Reverse2", "PPT Hourai DollDebuff2" ],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        },
+		{
+            "id": "shanghaiFX2",
+            "update_duration_type": "after_turn_attack",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Shanghai Enable", "PPT Shanghai Reverse2", "PPT Shanghai DollDebuff2"],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        },
+		{
+            "id": "houraiFX3",
+            "update_duration_type": "after_turn_friendly",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Hourai Enable", "PPT Hourai Reverse3", "PPT Hourai DollDebuff3" ],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        },
+		{
+            "id": "shanghaiFX3",
+            "update_duration_type": "after_turn_attack",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Shanghai Enable", "PPT Shanghai Reverse3", "PPT Shanghai DollDebuff3"],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        },
+		{
+            "id": "houraiFX4",
+            "update_duration_type": "after_turn_friendly",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Hourai Enable", "PPT Hourai Reverse4", "PPT Hourai DollDebuff4" ],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        },
+		{
+            "id": "shanghaiFX4",
+            "update_duration_type": "after_turn_attack",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Shanghai Enable", "PPT Shanghai Reverse4", "PPT Shanghai DollDebuff4"],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        },
+		{
+            "id": "houraiFX5",
+            "update_duration_type": "after_turn_friendly",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Hourai Enable", "PPT Hourai Reverse5", "PPT Hourai DollDebuff5" ],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        },
+		{
+            "id": "shanghaiFX5",
+            "update_duration_type": "after_turn_attack",
+            "duration_elements": 
+            [
+                {
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 0,
+                    "completion_effects":
+                    [],
+                    "increment_effects":
+                    []
+				},
+				{
+                    "completion_chance": 1.00,
+                    "completion_effects":
+                    [ "PPT Shanghai Enable", "PPT Shanghai Reverse5", "PPT Shanghai DollDebuff5"],
+                    "increment_effects":
+                    []
+
+                }
+            ]
+        }
+		
+    ]
+}

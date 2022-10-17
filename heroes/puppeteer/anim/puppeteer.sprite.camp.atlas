@@ -1,0 +1,13 @@
+
+puppeteer.sprite.camp.png
+size: 69,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+camp
+  rotate: false
+  xy: 2, 2
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1

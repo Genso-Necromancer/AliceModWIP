@@ -1,0 +1,103 @@
+resistances: .stun 40% .poison 30% .bleed 30% .disease 30% .move 40% .debuff 50% .death_blow 67% .trap 20%
+crit: .valid_modes ppt_mode .effects "PPT On-Crit"
+weapon: .name "puppeteer_weapon_0" .atk 0% .dmg 5 9   .crit 3% .spd 4
+weapon: .name "puppeteer_weapon_1" .atk 0% .dmg 6 10  .crit 4% .spd 4 .upgradeRequirementCode 0
+weapon: .name "puppeteer_weapon_2" .atk 0% .dmg 7 12  .crit 5% .spd 5 .upgradeRequirementCode 1
+weapon: .name "puppeteer_weapon_3" .atk 0% .dmg 7 13  .crit 6% .spd 5 .upgradeRequirementCode 2
+weapon: .name "puppeteer_weapon_4" .atk 0% .dmg 8 14  .crit 7% .spd 6 .upgradeRequirementCode 3
+armour: .name "puppeteer_armour_0" .def 5%  .prot 0 .hp 22 .spd 0
+armour: .name "puppeteer_armour_1" .def 10% .prot 0 .hp 28 .spd 0 .upgradeRequirementCode 0
+armour: .name "puppeteer_armour_2" .def 15% .prot 0 .hp 34 .spd 0 .upgradeRequirementCode 1
+armour: .name "puppeteer_armour_3" .def 20% .prot 0 .hp 40 .spd 0 .upgradeRequirementCode 2
+armour: .name "puppeteer_armour_4" .def 25% .prot 0 .hp 46 .spd 0 .upgradeRequirementCode 3
+
+combat_skill: .id "littleLegion" .level 0 .type "melee" .atk 85%  .dmg 0% .crit 3% .launch 321 .target 123 .valid_modes ppt_mode .effect "PPT Legion TT" .generation_guaranteed true
+combat_skill: .id "littleLegion" .level 1 .type "melee" .atk 90%  .dmg 0% .crit 4% .launch 321 .target 123 .valid_modes ppt_mode .effect "PPT Legion TT" .generation_guaranteed true
+combat_skill: .id "littleLegion" .level 2 .type "melee" .atk 95%  .dmg 0% .crit 5% .launch 321 .target 123 .valid_modes ppt_mode .effect "PPT Legion TT" .generation_guaranteed true
+combat_skill: .id "littleLegion" .level 3 .type "melee" .atk 100% .dmg 0% .crit 6% .launch 321 .target 123 .valid_modes ppt_mode .effect "PPT Legion TT" .generation_guaranteed true
+combat_skill: .id "littleLegion" .level 4 .type "melee" .atk 105% .dmg 0% .crit 7% .launch 321 .target 123 .valid_modes ppt_mode .effect "PPT Legion TT" .generation_guaranteed true
+
+combat_skill: .id "spectrumMystery" .level 0 .type "ranged" .atk 90%  .dmg 0% .crit 9%  .move 0 1 .launch 432 .target 123 .valid_modes ppt_mode .effect "PPT Spectrum TT1" "PPT Malice Buff1"
+combat_skill: .id "spectrumMystery" .level 1 .type "ranged" .atk 95%  .dmg 0% .crit 10% .move 0 1 .launch 432 .target 123 .valid_modes ppt_mode .effect "PPT Spectrum TT2" "PPT Malice Buff2"
+combat_skill: .id "spectrumMystery" .level 2 .type "ranged" .atk 100% .dmg 0% .crit 11% .move 0 1 .launch 432 .target 123 .valid_modes ppt_mode .effect "PPT Spectrum TT3" "PPT Malice Buff3"
+combat_skill: .id "spectrumMystery" .level 3 .type "ranged" .atk 105% .dmg 0% .crit 12% .move 0 1 .launch 432 .target 123 .valid_modes ppt_mode .effect "PPT Spectrum TT4" "PPT Malice Buff4"
+combat_skill: .id "spectrumMystery" .level 4 .type "ranged" .atk 110% .dmg 0% .crit 13% .move 0 1 .launch 432 .target 123 .valid_modes ppt_mode .effect "PPT Spectrum TT5" "PPT Malice Buff5"
+
+combat_skill: .id "cutePhalanx" .level 0 .type "melee" .atk 85%  .dmg -80% .crit 1% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Riposte 1" "PPT Cute Prot1" "PPT Companion Anti-Stack" "PPT Companion Legion Buff1"
+combat_skill: .id "cutePhalanx" .level 1 .type "melee" .atk 90%  .dmg -80% .crit 2% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Riposte 2" "PPT Cute Prot2" "PPT Companion Anti-Stack" "PPT Companion Legion Buff2"
+combat_skill: .id "cutePhalanx" .level 2 .type "melee" .atk 95%  .dmg -80% .crit 3% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Riposte 3" "PPT Cute Prot3" "PPT Companion Anti-Stack" "PPT Companion Legion Buff3"
+combat_skill: .id "cutePhalanx" .level 3 .type "melee" .atk 100% .dmg -80% .crit 4% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Riposte 4" "PPT Cute Prot4" "PPT Companion Anti-Stack" "PPT Companion Legion Buff4"
+combat_skill: .id "cutePhalanx" .level 4 .type "melee" .atk 105% .dmg -80% .crit 5% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Riposte 5" "PPT Cute Prot5" "PPT Companion Anti-Stack" "PPT Companion Legion Buff5"
+
+combat_skill: .id "cutePhalanx" .level 0 .type "melee" .atk 85%  .dmg -80% .crit 1% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Companion Chanter Buff1" "PPT Companion Legion Summon" "PPT Summoning TT"
+combat_skill: .id "cutePhalanx" .level 1 .type "melee" .atk 90%  .dmg -80% .crit 2% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Companion Chanter Buff2" "PPT Companion Legion Summon" "PPT Summoning TT"
+combat_skill: .id "cutePhalanx" .level 2 .type "melee" .atk 95%  .dmg -80% .crit 3% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Companion Chanter Buff3" "PPT Companion Legion Summon" "PPT Summoning TT"
+combat_skill: .id "cutePhalanx" .level 3 .type "melee" .atk 100% .dmg -80% .crit 4% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Companion Chanter Buff4" "PPT Companion Legion Summon" "PPT Summoning TT"
+combat_skill: .id "cutePhalanx" .level 4 .type "melee" .atk 105% .dmg -80% .crit 5% .launch 321 .target 12 .valid_modes ppt_mode .effect "PPT Companion Chanter Buff5" "PPT Companion Legion Summon" "PPT Summoning TT"
+
+combat_skill: .id "seekerDoll" .level 0 .type "ranged" .atk 100% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Mark" "PPT Party Mark Buff1" "PPT Stun Anti-Stack" "PPT Stun Legion Buff1"
+combat_skill: .id "seekerDoll" .level 1 .type "ranged" .atk 105% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Mark" "PPT Party Mark Buff2" "PPT Stun Anti-Stack" "PPT Stun Legion Buff2"
+combat_skill: .id "seekerDoll" .level 2 .type "ranged" .atk 110% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Mark" "PPT Party Mark Buff3" "PPT Stun Anti-Stack" "PPT Stun Legion Buff3"
+combat_skill: .id "seekerDoll" .level 3 .type "ranged" .atk 115% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Mark" "PPT Party Mark Buff4" "PPT Stun Anti-Stack" "PPT Stun Legion Buff4"
+combat_skill: .id "seekerDoll" .level 4 .type "ranged" .atk 120% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Mark" "PPT Party Mark Buff5" "PPT Stun Anti-Stack" "PPT Stun Legion Buff5"
+
+combat_skill: .id "seekerDoll" .level 0 .type "ranged" .atk 100% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Stun Chanter Buff1" "PPT Stun Legion Summon" "PPT Summoning TT"
+combat_skill: .id "seekerDoll" .level 1 .type "ranged" .atk 105% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Stun Chanter Buff2" "PPT Stun Legion Summon" "PPT Summoning TT"
+combat_skill: .id "seekerDoll" .level 2 .type "ranged" .atk 110% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Stun Chanter Buff3" "PPT Stun Legion Summon" "PPT Summoning TT"
+combat_skill: .id "seekerDoll" .level 3 .type "ranged" .atk 115% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Stun Chanter Buff4" "PPT Stun Legion Summon" "PPT Summoning TT"
+combat_skill: .id "seekerDoll" .level 4 .type "ranged" .atk 120% .dmg -100% .crit 0% .launch 4321 .target 1234 .valid_modes ppt_mode .effect "PPT Stun Chanter Buff5" "PPT Stun Legion Summon" "PPT Summoning TT"
+ 
+combat_skill: .id "artfulChanter" .level 0 .type "ranged" .atk 0% .dmg -100% .crit 1% .launch 21 .target ~1234 .valid_modes ppt_mode .effect "PPT Chanter TT" "PPT Chanter Acc Debuff1"
+combat_skill: .id "artfulChanter" .level 1 .type "ranged" .atk 0% .dmg -100% .crit 2% .launch 21 .target ~1234 .valid_modes ppt_mode .effect "PPT Chanter TT" "PPT Chanter Acc Debuff2"
+combat_skill: .id "artfulChanter" .level 2 .type "ranged" .atk 0% .dmg -100% .crit 3% .launch 21 .target ~1234 .valid_modes ppt_mode .effect "PPT Chanter TT" "PPT Chanter Acc Debuff3"
+combat_skill: .id "artfulChanter" .level 3 .type "ranged" .atk 0% .dmg -100% .crit 4% .launch 21 .target ~1234 .valid_modes ppt_mode .effect "PPT Chanter TT" "PPT Chanter Acc Debuff4"
+combat_skill: .id "artfulChanter" .level 4 .type "ranged" .atk 0% .dmg -100% .crit 5% .launch 21 .target ~1234 .valid_modes ppt_mode .effect "PPT Chanter TT" "PPT Chanter Acc Debuff5"
+
+combat_skill: .id "houraiDoll" .level 0 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Daze" "PPT Hourai Summon1" "PPT Hourai Disable" "PPT Hourai Buff1"
+combat_skill: .id "houraiDoll" .level 1 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Daze" "PPT Hourai Summon2" "PPT Hourai Disable" "PPT Hourai Buff2"
+combat_skill: .id "houraiDoll" .level 2 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Daze" "PPT Hourai Summon3" "PPT Hourai Disable" "PPT Hourai Buff3"
+combat_skill: .id "houraiDoll" .level 3 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Daze" "PPT Hourai Summon4" "PPT Hourai Disable" "PPT Hourai Buff4"
+combat_skill: .id "houraiDoll" .level 4 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Daze" "PPT Hourai Summon5" "PPT Hourai Disable" "PPT Hourai Buff5"
+
+combat_skill: .id "houraiDoll" .level 0 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff1" "PPT HourShan Chanter Buff1" "PPT Hourai TT"
+combat_skill: .id "houraiDoll" .level 1 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff2" "PPT HourShan Chanter Buff2" "PPT Hourai TT"
+combat_skill: .id "houraiDoll" .level 2 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff3" "PPT HourShan Chanter Buff3" "PPT Hourai TT"
+combat_skill: .id "houraiDoll" .level 3 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff4" "PPT HourShan Chanter Buff4" "PPT Hourai TT"
+combat_skill: .id "houraiDoll" .level 4 .launch 432 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff5" "PPT HourShan Chanter Buff5" "PPT Hourai TT"
+
+combat_skill: .id "shanghaiDoll" .level 0 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Stress" "PPT Shanghai Summon1" "PPT Shanghai Disable" "PPT Shanghai Buff1"
+combat_skill: .id "shanghaiDoll" .level 1 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Stress" "PPT Shanghai Summon2" "PPT Shanghai Disable" "PPT Shanghai Buff2"
+combat_skill: .id "shanghaiDoll" .level 2 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Stress" "PPT Shanghai Summon3" "PPT Shanghai Disable" "PPT Shanghai Buff3"
+combat_skill: .id "shanghaiDoll" .level 3 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Stress" "PPT Shanghai Summon4" "PPT Shanghai Disable" "PPT Shanghai Buff4"
+combat_skill: .id "shanghaiDoll" .level 4 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT Fake Stress" "PPT Shanghai Summon5" "PPT Shanghai Disable" "PPT Shanghai Buff5"
+
+combat_skill: .id "shanghaiDoll" .level 0 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff1" "PPT HourShan Chanter Buff1" "PPT Shanghai TT"
+combat_skill: .id "shanghaiDoll" .level 1 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff2" "PPT HourShan Chanter Buff2" "PPT Shanghai TT"
+combat_skill: .id "shanghaiDoll" .level 2 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff3" "PPT HourShan Chanter Buff3" "PPT Shanghai TT"
+combat_skill: .id "shanghaiDoll" .level 3 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff4" "PPT HourShan Chanter Buff4" "PPT Shanghai TT"
+combat_skill: .id "shanghaiDoll" .level 4 .launch 321 .target @1234 .valid_modes ppt_mode .effect "PPT HourShan Legion Buff5" "PPT HourShan Chanter Buff5" "PPT Shanghai TT"
+
+
+
+riposte_skill: .id "riposte1" .level 0 .type "melee" .atk 85% .dmg 0% .crit 0% .launch 1234 .target 1234 .is_crit_valid True
+
+combat_move_skill: .id "move" .level 0 .type "move" .move 2 2 .launch 4321
+
+tag: .id "light"
+tag: .id "non-religious"
+tag: .id "library"
+tag: .id "puppeteer"
+tag: .id "touhou"
+
+mode: .id ppt_mode .is_raid_default true
+
+
+
+
+
+deaths_door: .buffs deathsdoorACCDebuff deathsdoorDMGLowDebuff deathsdoorDMGHighDebuff deathsdoorSPDDebuff deathsdoorSRDebuff .recovery_buffs mortalityACCDebuff mortalityDMGLowDebuff mortalityDMGHighDebuff mortalitySPDDebuff mortalitySRDebuff .recovery_heart_attack_buffs heartattackACCDebuff heartattackDMGLowDebuff heartattackDMGHighDebuff heartattackSPDDebuff heartattackSRDebuff
+controlled: .target_rank 3
+id_index: .index 39298
+skill_selection: .can_select_combat_skills true .number_of_selected_combat_skills_max 4
+generation: .is_generation_enabled true .number_of_positive_quirks_min 1 .number_of_positive_quirks_max 2 .number_of_negative_quirks_min 1 .number_of_negative_quirks_max 2 .number_of_class_specific_camping_skills 2 .number_of_shared_camping_skills 1 .number_of_random_combat_skills 7 .number_of_cards_in_deck 6 .card_chance 1.0
+incompatible_party_member: .id peppeteer_limit .hero_tag puppeteer

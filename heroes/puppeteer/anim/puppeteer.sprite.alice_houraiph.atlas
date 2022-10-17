@@ -1,0 +1,13 @@
+
+puppeteer.sprite.alice_houraiph.png
+size: 123,88
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hourai
+  rotate: false
+  xy: 2, 2
+  size: 119, 84
+  orig: 119, 84
+  offset: 0, 0
+  index: -1

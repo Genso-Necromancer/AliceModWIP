@@ -1,0 +1,148 @@
+{
+   "buffs":
+   [
+        
+	 {
+         "id" : "ppt_littleLegion_TT",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "littleLegionTT",
+         "amount" : 1,
+         "remove_if_not_active" : false,
+         "rule_type" : "always",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : ""
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "ppt_artfulChanter_TT",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "artfulChanterTT",
+         "amount" : 1,
+         "remove_if_not_active" : false,
+         "rule_type" : "always",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : ""
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "ppt_spectrumMystery_TT1",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "spectrumMysteryTT",
+         "amount" : -0.1,
+         "remove_if_not_active" : false,
+         "rule_type" : "skill",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : "spectrumMysteryTT"
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "ppt_spectrumMystery_TT2",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "spectrumMysteryTT",
+         "amount" : -0.125,
+         "remove_if_not_active" : false,
+         "rule_type" : "skill",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : "spectrumMysteryTT"
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "ppt_spectrumMystery_TT3",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "spectrumMysteryTT",
+         "amount" : -0.15,
+         "remove_if_not_active" : false,
+         "rule_type" : "skill",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : "spectrumMysteryTT"
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "ppt_spectrumMystery_TT4",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "spectrumMysteryTT",
+         "amount" : -0.175,
+         "remove_if_not_active" : false,
+         "rule_type" : "skill",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : "spectrumMysteryTT"
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "ppt_spectrumMystery_TT5",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "spectrumMysteryTT",
+         "amount" : -0.2,
+         "remove_if_not_active" : false,
+         "rule_type" : "skill",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : "spectrumMysteryTT"
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "ppt_houraiDoll_TT",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "houraiDollTT",
+         "amount" : -0.175,
+         "remove_if_not_active" : false,
+         "rule_type" : "skill",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : "summoningTT"
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "ppt_shanghaiDoll_TT",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "shanghaiDollTT",
+         "amount" : -0.2,
+         "remove_if_not_active" : false,
+         "rule_type" : "skill",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : "summoningTT"
+         },
+		 "has_description": true
+     },
+	 {
+         "id" : "ppt_basicSummoning_TT",
+         "stat_type" : "upgrade_discount",
+         "stat_sub_type" : "basicSummoningTT",
+         "amount" : -0.2,
+         "remove_if_not_active" : false,
+         "rule_type" : "skill",
+         "is_false_rule" : false,
+         "rule_data" : {
+            "float" : 0,
+            "string" : "summoningTT"
+         },
+		 "has_description": true
+     }
+	  
+	  
+   ]
+}  

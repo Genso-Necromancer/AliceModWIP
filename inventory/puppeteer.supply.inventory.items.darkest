@@ -1,0 +1,5 @@
+inventory_item: .type "supply"		.id "ppt_buff_item1"			    .base_stack_limit 1		.purchase_gold_value 0	.sell_gold_value 0
+inventory_item: .type "supply"		.id "ppt_buff_item2"			    .base_stack_limit 1		.purchase_gold_value 0	.sell_gold_value 0
+inventory_item: .type "supply"		.id "ppt_buff_item3"			    .base_stack_limit 1		.purchase_gold_value 0	.sell_gold_value 0
+inventory_item: .type "supply"		.id "ppt_buff_item4"			    .base_stack_limit 1		.purchase_gold_value 0	.sell_gold_value 0
+inventory_item: .type "supply"		.id "ppt_buff_item5"			    .base_stack_limit 1		.purchase_gold_value 0	.sell_gold_value 0

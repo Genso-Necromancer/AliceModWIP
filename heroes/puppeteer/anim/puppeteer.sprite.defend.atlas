@@ -1,0 +1,13 @@
+
+puppeteer.sprite.defend.png
+size: 76,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+defend
+  rotate: false
+  xy: 2, 2
+  size: 72, 78
+  orig: 72, 78
+  offset: 0, 0
+  index: -1

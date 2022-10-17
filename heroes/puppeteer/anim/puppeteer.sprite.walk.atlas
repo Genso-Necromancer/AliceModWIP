@@ -1,0 +1,27 @@
+
+puppeteer.sprite.walk.png
+size: 212,82
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pasted Layer #1
+  rotate: false
+  xy: 2, 2
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+Pasted Layer #2
+  rotate: false
+  xy: 68, 12
+  size: 70, 68
+  orig: 70, 68
+  offset: 0, 0
+  index: -1
+Pasted Layer #3
+  rotate: false
+  xy: 140, 13
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1

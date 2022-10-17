@@ -1,0 +1,27 @@
+
+puppeteer.sprite.afflicted.png
+size: 1789,1190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aliceafflictedPH
+  rotate: false
+  xy: 1342, 672
+  size: 445, 516
+  orig: 445, 516
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 2
+  size: 1338, 1186
+  orig: 1338, 1186
+  offset: 0, 0
+  index: -1
+stress
+  rotate: false
+  xy: 1342, 349
+  size: 377, 321
+  orig: 377, 321
+  offset: 0, 0
+  index: -1

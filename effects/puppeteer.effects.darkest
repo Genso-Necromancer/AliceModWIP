@@ -1,0 +1,189 @@
+//Puppeteer On-Crit Effect
+effect: .name "PPT On-Crit" .target "performer" .chance 100% .duration 2 .buff_source_type bsrc_crit .buff_ids "magician_when_crit_Buff_Dodge" .on_hit true .on_miss false .queue false .apply_once true
+
+//Little Legion
+effect: .name "PPT Legion TT" .target "performer" .skill_instant true .buff_ids "ppt_littleLegion_TT" .on_hit true .on_miss false .apply_once true
+
+//spectrumMystery
+
+
+effect: .name "PPT Spectrum TT1" .target "performer" .skill_instant true .buff_ids "ppt_spectrumMystery_TT1" .on_hit true .on_miss false .apply_once true
+effect: .name "PPT Spectrum TT2" .target "performer" .skill_instant true .buff_ids "ppt_spectrumMystery_TT2" .on_hit true .on_miss false .apply_once true
+effect: .name "PPT Spectrum TT3" .target "performer" .skill_instant true .buff_ids "ppt_spectrumMystery_TT3" .on_hit true .on_miss false .apply_once true
+effect: .name "PPT Spectrum TT4" .target "performer" .skill_instant true .buff_ids "ppt_spectrumMystery_TT4" .on_hit true .on_miss false .apply_once true
+effect: .name "PPT Spectrum TT5" .target "performer" .skill_instant true .buff_ids "ppt_spectrumMystery_TT5" .on_hit true .on_miss false .apply_once true
+
+effect: .name "PPT Malice Buff1" .target "performer" .chance 100% .use_item_type supply .use_item_id "ppt_buff_item1" .on_hit true .on_miss true
+effect: .name "PPT Malice Buff2" .target "performer" .chance 100% .use_item_type supply .use_item_id "ppt_buff_item2" .on_hit true .on_miss true
+effect: .name "PPT Malice Buff3" .target "performer" .chance 100% .use_item_type supply .use_item_id "ppt_buff_item3" .on_hit true .on_miss true
+effect: .name "PPT Malice Buff4" .target "performer" .chance 100% .use_item_type supply .use_item_id "ppt_buff_item4" .on_hit true .on_miss true
+effect: .name "PPT Malice Buff5" .target "performer" .chance 100% .use_item_type supply .use_item_id "ppt_buff_item5" .on_hit true .on_miss true
+
+effect: .name "ppt_buff_item1" .target "performer" .item 1 .chance 100% .duration 1 .buff_ids "ppt_malice_DMGH1" "ppt_malice_DMGL1" .on_hit true .on_miss true
+effect: .name "ppt_buff_item2" .target "performer" .item 1 .chance 100% .duration 1 .buff_ids "ppt_malice_DMGH2" "ppt_malice_DMGL2" .on_hit true .on_miss true
+effect: .name "ppt_buff_item3" .target "performer" .item 1 .chance 100% .duration 1 .buff_ids "ppt_malice_DMGH3" "ppt_malice_DMGL3" .on_hit true .on_miss true
+effect: .name "ppt_buff_item4" .target "performer" .item 1 .chance 100% .duration 1 .buff_ids "ppt_malice_DMGH4" "ppt_malice_DMGL4" .on_hit true .on_miss true
+effect: .name "ppt_buff_item5" .target "performer" .item 1 .chance 100% .duration 1 .buff_ids "ppt_malice_DMGH5" "ppt_malice_DMGL5" .on_hit true .on_miss true
+
+
+//cutePhalanx
+
+effect: .name "PPT Riposte 1" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .damage_low_multiply -40% .damage_high_multiply -40% .duration 3 .on_hit true .on_miss true .has_description true 
+effect: .name "PPT Riposte 2" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 5% .damage_low_multiply -35% .damage_high_multiply -35% .duration 3 .on_hit true .on_miss true .has_description true 
+effect: .name "PPT Riposte 3" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 10% .damage_low_multiply -30% .damage_high_multiply -30% .duration 3 .on_hit true .on_miss true .has_description true 
+effect: .name "PPT Riposte 4" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 15% .damage_low_multiply -25% .damage_high_multiply -25% .duration 3 .on_hit true .on_miss true .has_description true 
+effect: .name "PPT Riposte 5" .target "performer" .chance 100% .riposte 1 .riposte_on_hit_chance_add 100% .riposte_on_miss_chance_add 100% .attack_rating_add 20% .damage_low_multiply -20% .damage_high_multiply -20% .duration 3 .on_hit true .on_miss true .has_description true 
+
+effect: .name "PPT Cute Prot1" .target "performer" .chance 100% .combat_stat_buff .protection_rating_add 5%    .on_hit true .on_miss true
+effect: .name "PPT Cute Prot2" .target "performer" .chance 100% .combat_stat_buff .protection_rating_add 7.5%  .on_hit true .on_miss true
+effect: .name "PPT Cute Prot3" .target "performer" .chance 100% .combat_stat_buff .protection_rating_add 10%   .on_hit true .on_miss true
+effect: .name "PPT Cute Prot4" .target "performer" .chance 100% .combat_stat_buff .protection_rating_add 12.5% .on_hit true .on_miss true
+effect: .name "PPT Cute Prot5" .target "performer" .chance 100% .combat_stat_buff .protection_rating_add 15%   .on_hit true .on_miss true
+
+effect: .name "PPT Companion Anti-Stack" .target "performer" .chance 100% .steal_buff_source_type bsrc_companion .on_hit true .on_miss true .queue true .has_description false
+
+effect: .name "PPT Companion Legion Buff1" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH1" "ppt_legion_buff_DMGL1" .buff_source_type bsrc_companion .on_hit true .on_miss true .queue true 
+effect: .name "PPT Companion Legion Buff2" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH2" "ppt_legion_buff_DMGL2" .buff_source_type bsrc_companion .on_hit true .on_miss true .queue true 
+effect: .name "PPT Companion Legion Buff3" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH3" "ppt_legion_buff_DMGL3" .buff_source_type bsrc_companion .on_hit true .on_miss true .queue true 
+effect: .name "PPT Companion Legion Buff4" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH4" "ppt_legion_buff_DMGL4" .buff_source_type bsrc_companion .on_hit true .on_miss true .queue true 
+effect: .name "PPT Companion Legion Buff5" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH5" "ppt_legion_buff_DMGL5" .buff_source_type bsrc_companion .on_hit true .on_miss true .queue true 
+
+effect: .name "PPT Companion Chanter Buff1" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_phalanx_chanter_debuff_chance" "ppt_chanter_CRIT12" .buff_source_type bsrc_Companion .on_hit true .on_miss true .queue true 
+effect: .name "PPT Companion Chanter Buff2" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_phalanx_chanter_debuff_chance" "ppt_chanter_CRIT12" .buff_source_type bsrc_Companion .on_hit true .on_miss true .queue true 
+effect: .name "PPT Companion Chanter Buff3" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_phalanx_chanter_debuff_chance" "ppt_chanter_CRIT34" .buff_source_type bsrc_Companion .on_hit true .on_miss true .queue true 
+effect: .name "PPT Companion Chanter Buff4" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_phalanx_chanter_debuff_chance" "ppt_chanter_CRIT34" .buff_source_type bsrc_Companion .on_hit true .on_miss true .queue true 
+effect: .name "PPT Companion Chanter Buff5" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_phalanx_chanter_debuff_chance" "ppt_chanter_CRIT5"  .buff_source_type bsrc_Companion .on_hit true .on_miss true .queue true 
+
+//seekerDoll
+
+effect: .name "PPT Mark" .target "target" .chance 100% .duration 3 .tag 1 .on_hit true .on_miss false 
+
+effect: .name "PPT Party Mark Buff1" .target "performer_group" .chance 100% .duration 3 .buff_ids "ppt_mark_ACC1" "ppt_mark_ARMP1"  .on_hit true .on_miss false 
+effect: .name "PPT Party Mark Buff2" .target "performer_group" .chance 100% .duration 3 .buff_ids "ppt_mark_ACC2" "ppt_mark_ARMP2"  .on_hit true .on_miss false 
+effect: .name "PPT Party Mark Buff3" .target "performer_group" .chance 100% .duration 3 .buff_ids "ppt_mark_ACC3" "ppt_mark_ARMP3"  .on_hit true .on_miss false 
+effect: .name "PPT Party Mark Buff4" .target "performer_group" .chance 100% .duration 3 .buff_ids "ppt_mark_ACC4" "ppt_mark_ARMP4"  .on_hit true .on_miss false 
+effect: .name "PPT Party Mark Buff5" .target "performer_group" .chance 100% .duration 3 .buff_ids "ppt_mark_ACC5" "ppt_mark_ARMP5"  .on_hit true .on_miss false 
+
+effect: .name "PPT Stun Anti-Stack" .target "performer" .chance 100% .steal_buff_source_type bsrc_stun .on_hit true .on_miss true .queue true .has_description false
+
+effect: .name "PPT Stun Legion Buff1" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH1" "ppt_legion_buff_DMGL1" .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+effect: .name "PPT Stun Legion Buff2" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH2" "ppt_legion_buff_DMGL2" .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+effect: .name "PPT Stun Legion Buff3" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH3" "ppt_legion_buff_DMGL3" .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+effect: .name "PPT Stun Legion Buff4" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH4" "ppt_legion_buff_DMGL4" .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+effect: .name "PPT Stun Legion Buff5" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_legion_buff_DMGH5" "ppt_legion_buff_DMGL5" .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+
+effect: .name "PPT Stun Chanter Buff1" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_seeker_chanter_debuff_chance" "ppt_chanter_CRIT12" .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+effect: .name "PPT Stun Chanter Buff2" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_seeker_chanter_debuff_chance" "ppt_chanter_CRIT12" .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+effect: .name "PPT Stun Chanter Buff3" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_seeker_chanter_debuff_chance" "ppt_chanter_CRIT34" .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+effect: .name "PPT Stun Chanter Buff4" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_seeker_chanter_debuff_chance" "ppt_chanter_CRIT34" .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+effect: .name "PPT Stun Chanter Buff5" .target "performer" .chance 100% .duration 3 .buff_ids "ppt_seeker_chanter_debuff_chance" "ppt_chanter_CRIT5"  .buff_source_type bsrc_stun .on_hit true .on_miss true .queue true 
+
+//artfulChanter
+"ppt_spectrumMystery_TT1"
+effect: .name "PPT Chanter TT" .target "performer" .skill_instant true .buff_ids "ppt_artfulChanter_TT" .on_hit true .on_miss false .apply_once true
+
+effect: .name "PPT Chanter Acc Debuff1" .target "target" .chance 90%  .duration 3 .buff_ids "ppt_chanter_ACCdebuff1" .on_hit true .on_miss false .queue true 
+effect: .name "PPT Chanter Acc Debuff2" .target "target" .chance 100% .duration 3 .buff_ids "ppt_chanter_ACCdebuff2" .on_hit true .on_miss false .queue true 
+effect: .name "PPT Chanter Acc Debuff3" .target "target" .chance 110% .duration 3 .buff_ids "ppt_chanter_ACCdebuff3" .on_hit true .on_miss false .queue true 
+effect: .name "PPT Chanter Acc Debuff4" .target "target" .chance 120% .duration 3 .buff_ids "ppt_chanter_ACCdebuff4" .on_hit true .on_miss false .queue true 
+effect: .name "PPT Chanter Acc Debuff5" .target "target" .chance 130% .duration 3 .buff_ids "ppt_chanter_ACCdebuff5" .on_hit true .on_miss false .queue true 
+
+//Hourai Doll
+
+effect: .name "PPT Hourai TT" .target "performer" .skill_instant true .buff_ids "ppt_houraiDoll_TT" .on_hit true .on_miss false .apply_once true
+
+effect: .name "PPT Fake Daze" .target "performer" .chance 0% .daze 1 .on_hit false .on_miss false .has_description false
+
+effect: .name "PPT Hourai Summon1" .target "target" .chance 999% .actor_dot houraiFX1 .on_hit true .on_miss false .has_description false
+effect: .name "PPT Hourai Summon2" .target "target" .chance 999% .actor_dot houraiFX2 .on_hit true .on_miss false .has_description false
+effect: .name "PPT Hourai Summon3" .target "target" .chance 999% .actor_dot houraiFX3 .on_hit true .on_miss false .has_description false
+effect: .name "PPT Hourai Summon4" .target "target" .chance 999% .actor_dot houraiFX4 .on_hit true .on_miss false .has_description false
+effect: .name "PPT Hourai Summon5" .target "target" .chance 999% .actor_dot houraiFX5 .on_hit true .on_miss false .has_description false
+
+effect: .name "PPT Hourai DollDebuff1" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_A .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+effect: .name "PPT Hourai DollDebuff2" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_B .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+effect: .name "PPT Hourai DollDebuff3" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_C .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+effect: .name "PPT Hourai DollDebuff4" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_D .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+effect: .name "PPT Hourai DollDebuff5" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_E .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+
+effect: .name "PPT Hourai Disable" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_disable" .on_hit true .on_miss true .buff_is_clear_debuff_valid false .has_description false
+
+effect: .name "PPT Hourai Buff1" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_HEAL1" "ppt_hourai_DESTRESS1" .on_hit true .on_miss false
+effect: .name "PPT Hourai Buff2" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_HEAL2" "ppt_hourai_DESTRESS2" .on_hit true .on_miss false
+effect: .name "PPT Hourai Buff3" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_HEAL3" "ppt_hourai_DESTRESS3" .on_hit true .on_miss false
+effect: .name "PPT Hourai Buff4" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_HEAL4" "ppt_hourai_DESTRESS4" .on_hit true .on_miss false
+effect: .name "PPT Hourai Buff5" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_HEAL5" "ppt_hourai_DESTRESS5" .on_hit true .on_miss false
+
+effect: .name "PPT Hourai Reverse1" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_REVERSE_HEAL1" "ppt_hourai_REVERSE_DESTRESS1" .on_hit true .on_miss false
+effect: .name "PPT Hourai Reverse2" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_REVERSE_HEAL2" "ppt_hourai_REVERSE_DESTRESS2" .on_hit true .on_miss false
+effect: .name "PPT Hourai Reverse3" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_REVERSE_HEAL3" "ppt_hourai_REVERSE_DESTRESS3" .on_hit true .on_miss false
+effect: .name "PPT Hourai Reverse4" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_REVERSE_HEAL4" "ppt_hourai_REVERSE_DESTRESS4" .on_hit true .on_miss false
+effect: .name "PPT Hourai Reverse5" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_REVERSE_HEAL5" "ppt_hourai_REVERSE_DESTRESS5" .on_hit true .on_miss false
+
+effect: .name "PPT Hourai Enable" .target "target_group" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_hourai_enable" .on_hit true .on_miss true .buff_is_clear_debuff_valid false .has_description false
+
+//Shanghai Doll
+
+effect: .name "PPT Shanghai TT" .target "performer" .skill_instant true .buff_ids "ppt_shanghaiDoll_TT" .on_hit true .on_miss false .apply_once true
+
+effect: .name "PPT Fake Stress" .target "performer" .chance 0% .stress 1 .on_hit true .on_miss false .has_description false
+
+effect: .name "PPT Shanghai Summon1" .target "target" .chance 999% .actor_dot shanghaiFX1 .on_hit true .on_miss false .has_description false
+effect: .name "PPT Shanghai Summon2" .target "target" .chance 999% .actor_dot shanghaiFX2 .on_hit true .on_miss false .has_description false
+effect: .name "PPT Shanghai Summon3" .target "target" .chance 999% .actor_dot shanghaiFX3 .on_hit true .on_miss false .has_description false
+effect: .name "PPT Shanghai Summon4" .target "target" .chance 999% .actor_dot shanghaiFX4 .on_hit true .on_miss false .has_description false
+effect: .name "PPT Shanghai Summon5" .target "target" .chance 999% .actor_dot shanghaiFX5 .on_hit true .on_miss false .has_description false
+
+effect: .name "PPT Shanghai DollDebuff1" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_A .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+effect: .name "PPT Shanghai DollDebuff2" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_B .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+effect: .name "PPT Shanghai DollDebuff3" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_C .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+effect: .name "PPT Shanghai DollDebuff4" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_D .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+effect: .name "PPT Shanghai DollDebuff5" .target "target" .chance 100%  .summon_count 1 .summon_limits 1 .summon_can_spawn_loot false .summon_monsters ppt_dolldebuff_E .summon_chances 1.0 .summon_does_roll_initiatives 0 .on_hit true .on_miss true .apply_once true .has_description false
+
+effect: .name "PPT Shanghai Disable" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_disable" .on_hit true .on_miss true .buff_is_clear_debuff_valid false .has_description false
+
+effect: .name "PPT Shanghai Buff1" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_DMGH1" "ppt_shanghai_DMGL1" .on_hit true .on_miss false
+effect: .name "PPT Shanghai Buff2" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_DMGH2" "ppt_shanghai_DMGL2" .on_hit true .on_miss false
+effect: .name "PPT Shanghai Buff3" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_DMGH3" "ppt_shanghai_DMGL3" .on_hit true .on_miss false
+effect: .name "PPT Shanghai Buff4" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_DMGH4" "ppt_shanghai_DMGL4" .on_hit true .on_miss false
+effect: .name "PPT Shanghai Buff5" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_DMGH5" "ppt_shanghai_DMGL5" .on_hit true .on_miss false
+
+effect: .name "PPT Shanghai Reverse1" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_REVERSE_DMGH1" "ppt_shanghai_REVERSE_DMGL1" .on_hit true .on_miss false
+effect: .name "PPT Shanghai Reverse2" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_REVERSE_DMGH2" "ppt_shanghai_REVERSE_DMGL2" .on_hit true .on_miss false
+effect: .name "PPT Shanghai Reverse3" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_REVERSE_DMGH3" "ppt_shanghai_REVERSE_DMGL3" .on_hit true .on_miss false
+effect: .name "PPT Shanghai Reverse4" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_REVERSE_DMGH4" "ppt_shanghai_REVERSE_DMGL4" .on_hit true .on_miss false
+effect: .name "PPT Shanghai Reverse5" .target "target" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_REVERSE_DMGH5" "ppt_shanghai_REVERSE_DMGL5" .on_hit true .on_miss false
+
+effect: .name "PPT Shanghai Enable" .target "target_group" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_shanghai_enable" .on_hit true .on_miss true .buff_is_clear_debuff_valid false .has_description false
+
+//Shared
+
+effect: .name "PPT Summoning TT" .target "performer" .skill_instant true .buff_ids "ppt_basicSummoning_TT" .on_hit true .on_miss false .apply_once true
+
+effect: .name "ppt_dolldebuff Kill" .target "performer" .chance 1000% .kill_enemy_types ppt_dolldebuff .on_hit true .on_miss true .queue true
+
+
+effect: .name "PPT HourShan Legion Buff1" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_buff_DMGH1" "ppt_legion_buff_DMGL1" .on_hit true .on_miss true .queue true
+effect: .name "PPT HourShan Legion Buff2" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_buff_DMGH2" "ppt_legion_buff_DMGL2" .on_hit true .on_miss true .queue true
+effect: .name "PPT HourShan Legion Buff3" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_buff_DMGH3" "ppt_legion_buff_DMGL3" .on_hit true .on_miss true .queue true
+effect: .name "PPT HourShan Legion Buff4" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_buff_DMGH4" "ppt_legion_buff_DMGL4" .on_hit true .on_miss true .queue true
+effect: .name "PPT HourShan Legion Buff5" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_buff_DMGH5" "ppt_legion_buff_DMGL5" .on_hit true .on_miss true .queue true
+
+effect: .name "PPT HourShan Chanter Buff1" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_debuff_chance" "ppt_chanter_CRIT12" .on_hit true .on_miss true .queue true
+effect: .name "PPT HourShan Chanter Buff2" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_debuff_chance" "ppt_chanter_CRIT12" .on_hit true .on_miss true .queue true
+effect: .name "PPT HourShan Chanter Buff3" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_debuff_chance" "ppt_chanter_CRIT34" .on_hit true .on_miss true .queue true
+effect: .name "PPT HourShan Chanter Buff4" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_debuff_chance" "ppt_chanter_CRIT34" .on_hit true .on_miss true .queue true
+effect: .name "PPT HourShan Chanter Buff5" .target "performer" .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_debuff_chance" "ppt_chanter_CRIT5"  .on_hit true .on_miss true .queue true
+
+effect: .name "PPT HourShan Legion Reverse1" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_REVERSE_buff_DMGH1" "ppt_legion_REVERSE_buff_DMGL1" .on_hit true .on_miss true
+effect: .name "PPT HourShan Legion Reverse2" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_REVERSE_buff_DMGH2" "ppt_legion_REVERSE_buff_DMGL2" .on_hit true .on_miss true
+effect: .name "PPT HourShan Legion Reverse3" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_REVERSE_buff_DMGH3" "ppt_legion_REVERSE_buff_DMGL3" .on_hit true .on_miss true
+effect: .name "PPT HourShan Legion Reverse4" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_REVERSE_buff_DMGH4" "ppt_legion_REVERSE_buff_DMGL4" .on_hit true .on_miss true
+effect: .name "PPT HourShan Legion Reverse5" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_legion_REVERSE_buff_DMGH5" "ppt_legion_REVERSE_buff_DMGL5" .on_hit true .on_miss true
+
+effect: .name "PPT HourShan Chanter Reverse1" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_REVERSE_debuff_chance" "ppt_chanter_REVERSE_CRIT12" .on_hit true .on_miss true
+effect: .name "PPT HourShan Chanter Reverse2" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_REVERSE_debuff_chance" "ppt_chanter_REVERSE_CRIT12" .on_hit true .on_miss true
+effect: .name "PPT HourShan Chanter Reverse3" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_REVERSE_debuff_chance" "ppt_chanter_REVERSE_CRIT34" .on_hit true .on_miss true
+effect: .name "PPT HourShan Chanter Reverse4" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_REVERSE_debuff_chance" "ppt_chanter_REVERSE_CRIT34" .on_hit true .on_miss true
+effect: .name "PPT HourShan Chanter Reverse5" .target "target" .spawn_target_actor_base_class_id puppeteer .chance 999% .duration 1 .buff_duration_type combat_end .buff_ids "ppt_HourShan_chanter_REVERSE_debuff_chance" "ppt_chanter_REVERSE_CRIT5"  .on_hit true .on_miss true
+

@@ -1,0 +1,178 @@
+
+-------------------------------------------------------------------------------
+Parsing project file - C:\Program Files (x86)\Steam\steamapps\common\DarkestDungeon\mods\AliceModWIP\project.xml
+Mod Data Directory = C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/AliceModWIP/
+
+-------------------------------------------------------------------------------
+Processing Map Files files...
+
+-------------------------------------------------------------------------------
+Running Localization...
+Parsing localization/puppeteer_english.string_table.xml
+
+Building Languages
+Exporting .loc2 files
+
+-------------------------------------------------------------------------------
+Searching for preview icon file C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/AliceModWIP/preview_icon.png...FOUND!
+<UploadMode> - Set to dont_submit
+
+
+-------------------------------------------------------------------------------
+Detected 2 unchanged files
+The following files are unchanged...
+C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/AliceModWIP/overlays/poptext_hp_heal_dot.png
+C:/Program Files (x86)/Steam/steamapps/common/DarkestDungeon/mods/AliceModWIP/overlays/tray_dot_hp_heal.png
+
+-------------------------------------------------------------------------------
+Modded files...
+
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.afflicted.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.alice_chanterph.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.alice_houraiph.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.alice_legionph.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.alice_ripositeph.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.camp.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.combat.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.defend.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.heroic.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.idle.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.investigate.png
+heroes/puppeteer/puppeteer_A/anim/puppeteer.sprite.walk.png
+heroes/puppeteer/anim/puppeteer.sprite.afflicted.atlas
+heroes/puppeteer/anim/puppeteer.sprite.afflicted.skel
+heroes/puppeteer/anim/puppeteer.sprite.alice_chanterph.atlas
+heroes/puppeteer/anim/puppeteer.sprite.alice_chanterph.skel
+heroes/puppeteer/anim/puppeteer.sprite.alice_houraiph.atlas
+heroes/puppeteer/anim/puppeteer.sprite.alice_houraiph.skel
+heroes/puppeteer/anim/puppeteer.sprite.alice_legionph.atlas
+heroes/puppeteer/anim/puppeteer.sprite.alice_legionph.skel
+heroes/puppeteer/anim/puppeteer.sprite.alice_ripositeph.atlas
+heroes/puppeteer/anim/puppeteer.sprite.alice_ripositeph.skel
+heroes/puppeteer/anim/puppeteer.sprite.camp.atlas
+heroes/puppeteer/anim/puppeteer.sprite.camp.skel
+heroes/puppeteer/anim/puppeteer.sprite.combat.atlas
+heroes/puppeteer/anim/puppeteer.sprite.combat.skel
+heroes/puppeteer/anim/puppeteer.sprite.defend.atlas
+heroes/puppeteer/anim/puppeteer.sprite.defend.skel
+heroes/puppeteer/anim/puppeteer.sprite.heroic.atlas
+heroes/puppeteer/anim/puppeteer.sprite.heroic.skel
+heroes/puppeteer/anim/puppeteer.sprite.idle.atlas
+heroes/puppeteer/anim/puppeteer.sprite.idle.skel
+heroes/puppeteer/anim/puppeteer.sprite.investigate.atlas
+heroes/puppeteer/anim/puppeteer.sprite.investigate.skel
+heroes/puppeteer/anim/puppeteer.sprite.walk.atlas
+heroes/puppeteer/anim/puppeteer.sprite.walk.skel
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX1.atlas
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX1.png
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX1.skel
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX2.atlas
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX2.png
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX2.skel
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX3.atlas
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX3.png
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX3.skel
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX4.atlas
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX4.png
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX4.skel
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX5.atlas
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX5.png
+heroes/puppeteer/fx/puppeteer.sprite.houraiFX5.skel
+heroes/puppeteer/fx/puppeteer.sprite.phalanxFX1.atlas
+heroes/puppeteer/fx/puppeteer.sprite.phalanxFX1.png
+heroes/puppeteer/fx/puppeteer.sprite.phalanxFX1.skel
+heroes/puppeteer/fx/puppeteer.sprite.seekerFX1.atlas
+heroes/puppeteer/fx/puppeteer.sprite.seekerFX1.png
+heroes/puppeteer/fx/puppeteer.sprite.seekerFX1.skel
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX1.atlas
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX1.png
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX1.skel
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX2.atlas
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX2.png
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX2.skel
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX3.atlas
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX3.png
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX3.skel
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX4.atlas
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX4.png
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX4.skel
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX5.atlas
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX5.png
+heroes/puppeteer/fx/puppeteer.sprite.shanghaiFX5.skel
+heroes/puppeteer/icons_equip/eqp_armour_0.png
+heroes/puppeteer/icons_equip/eqp_armour_1.png
+heroes/puppeteer/icons_equip/eqp_armour_2.png
+heroes/puppeteer/icons_equip/eqp_armour_3.png
+heroes/puppeteer/icons_equip/eqp_armour_4.png
+heroes/puppeteer/icons_equip/eqp_weapon_0.png
+heroes/puppeteer/icons_equip/eqp_weapon_1.png
+heroes/puppeteer/icons_equip/eqp_weapon_2.png
+heroes/puppeteer/icons_equip/eqp_weapon_3.png
+heroes/puppeteer/icons_equip/eqp_weapon_4.png
+heroes/puppeteer/puppeteer_A/puppeteer_portrait_roster.png
+monsters/ppt_dolldebuff/anim/ppt_dolldebuff.sprite.combat.atlas
+monsters/ppt_dolldebuff/anim/ppt_dolldebuff.sprite.combat.png
+monsters/ppt_dolldebuff/anim/ppt_dolldebuff.sprite.combat.skel
+monsters/ppt_dolldebuff/ppt_dolldebuff_A/ppt_dolldebuff_A.art.darkest
+monsters/ppt_dolldebuff/ppt_dolldebuff_A/ppt_dolldebuff_A.info.darkest
+monsters/ppt_dolldebuff/ppt_dolldebuff_B/ppt_dolldebuff_B.art.darkest
+monsters/ppt_dolldebuff/ppt_dolldebuff_B/ppt_dolldebuff_B.info.darkest
+monsters/ppt_dolldebuff/ppt_dolldebuff_C/ppt_dolldebuff_C.art.darkest
+monsters/ppt_dolldebuff/ppt_dolldebuff_C/ppt_dolldebuff_C.info.darkest
+monsters/ppt_dolldebuff/ppt_dolldebuff_D/ppt_dolldebuff_D.art.darkest
+monsters/ppt_dolldebuff/ppt_dolldebuff_D/ppt_dolldebuff_D.info.darkest
+monsters/ppt_dolldebuff/ppt_dolldebuff_E/ppt_dolldebuff_E.art.darkest
+monsters/ppt_dolldebuff/ppt_dolldebuff_E/ppt_dolldebuff_E.info.darkest
+raid/camping/skill_icons/camp_skill_ppt_blankcamp.png
+fx/death_touhou/death_touhou.sprite.atlas
+fx/death_touhou/death_touhou.sprite.png
+fx/death_touhou/death_touhou.sprite.skel
+heroes/puppeteer/puppeteer.ability.five.png
+heroes/puppeteer/puppeteer.ability.four.png
+heroes/puppeteer/puppeteer.ability.one.png
+heroes/puppeteer/puppeteer.ability.seven.png
+heroes/puppeteer/puppeteer.ability.six.png
+heroes/puppeteer/puppeteer.ability.three.png
+heroes/puppeteer/puppeteer.ability.two.png
+heroes/puppeteer/puppeteer.art.darkest
+heroes/puppeteer/puppeteer.info.darkest
+heroes/puppeteer/puppeteer_guild_header.png
+raid/actor_dot/puppeteer.actor_dot.json
+raid/camping/puppeteer.camping_skills.json
+shared/buffs/puppeteer.buffs.json
+shared/buffs/puppeteer_trinket.buffs.json
+shared/buffs/puppeteer_tt.buffs.json
+campaign/puppeteer.roster.additional_variables.json
+colours/puppeteer.colours.darkest
+effects/puppeteer.effects.darkest
+inventory/puppeteer.supply.inventory.items.darkest
+localization/0_english.loc2
+localization/puppeteer_english.string_table.xml
+overlays/poptext_damage_reflect.png
+overlays/poptext_health_damage_block.png
+overlays/poptext_health_damage_block_onset.png
+overlays/poptext_shuffle_dot.png
+overlays/poptext_shuffle_dot_resist.png
+overlays/poptext_vampire_resist.png
+overlays/tray_dot_shuffle.png
+overlays/tray_health_damage_block.png
+overlays/tray_quirk.disease_vampire_blood_lust.png
+overlays/tray_quirk.disease_vampire_crave.png
+overlays/tray_quirk.disease_vampire_passive.png
+overlays/tray_quirk.disease_vampire_wasting.png
+trinkets/com.rarities.trinkets.json
+trinkets/crimson_court.rarities.trinkets.json
+trinkets/east_town.rarities.trinkets.json
+trinkets/puppeteer.entries.trinkets.json
+trinkets/puppeteer.sets.trinkets.json
+upgrades/puppeteer.upgrades.json
+Change Log.txt
+preview_icon.png
+project.xml
+
+
+*******************************************************************************
+WARNING MOD WILL NOT BE UPLOADED
+*******************************************************************************
+Saving project file C:\Program Files (x86)\Steam\steamapps\common\DarkestDungeon\mods\AliceModWIP\project.xml
+

@@ -1,0 +1,27 @@
+
+puppeteer.sprite.heroic.png
+size: 2871,1230
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aliceheroPH
+  rotate: true
+  xy: 2, 2
+  size: 1226, 1244
+  orig: 1226, 1244
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 1248, 97
+  size: 1308, 1131
+  orig: 1308, 1131
+  offset: 0, 0
+  index: -1
+stress
+  rotate: false
+  xy: 2558, 897
+  size: 311, 331
+  orig: 311, 331
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+puppeteer.sprite.alice_chanterph.png
+size: 51,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chanter
+  rotate: false
+  xy: 2, 2
+  size: 47, 91
+  orig: 47, 91
+  offset: 0, 0
+  index: -1

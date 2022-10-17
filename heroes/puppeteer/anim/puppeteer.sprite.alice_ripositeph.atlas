@@ -1,0 +1,13 @@
+
+puppeteer.sprite.alice_ripositeph.png
+size: 203,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+riposte
+  rotate: false
+  xy: 2, 2
+  size: 199, 108
+  orig: 199, 108
+  offset: 0, 0
+  index: -1

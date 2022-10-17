@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <language id="english">
+		<entry id="hero_class_name_puppeteer"><![CDATA[Puppeteer]]></entry>
+		<entry id="action_verbose_body_blacksmith_puppeteer"><![CDATA[]]></entry>
+
+		<entry id="action_verbose_body_guild_puppeteer"><![CDATA[]]></entry>
+
+
+		<entry id="action_verbose_body_camping_trainer_puppeteer"><![CDATA[]]></entry>
+
+<!-- -->
+		<!-- Skills -->
+
+		<entry id="combat_skill_name_puppeteer_spectrumMystery"><![CDATA[Spectrum Mystery]]></entry>
+		<entry id="combat_skill_name_puppeteer_cutePhalanx"><![CDATA[Cute Phalanx]]></entry>
+    	<entry id="combat_skill_name_puppeteer_littleLegion"><![CDATA[Little Legion]]></entry>
+    	<entry id="combat_skill_name_puppeteer_seekerDoll"><![CDATA[Seeker Doll]]></entry>
+    	<entry id="combat_skill_name_puppeteer_artfulChanter"><![CDATA[Artful Chanter]]></entry>
+    	<entry id="combat_skill_name_puppeteer_houraiDoll"><![CDATA[Hourai Doll]]></entry>
+		<entry id="combat_skill_name_puppeteer_shanghaiDoll"><![CDATA[Shanghai Doll]]></entry>
+    	<entry id="combat_skill_name_puppeteer_move"><![CDATA[]]></entry>
+   		<entry id="upgrade_tree_name_puppeteer.spectrumMystery"><![CDATA[Spectrum Mystery]]></entry>
+		<entry id="upgrade_tree_name_puppeteer.cutePhalanx"><![CDATA[Cute Phalanx]]></entry>
+    	<entry id="upgrade_tree_name_puppeteer.littleLegion"><![CDATA[Little Legion]]></entry>
+    	<entry id="upgrade_tree_name_puppeteer.seekerDoll"><![CDATA[Seeker Doll]]></entry>
+    	<entry id="upgrade_tree_name_puppeteer.artfulChanter"><![CDATA[Artful Chanter]]></entry>
+    	<entry id="upgrade_tree_name_puppeteer.houraiDoll"><![CDATA[Hourai Doll]]></entry>
+    	<entry id="upgrade_tree_name_puppeteer.shanghaiDoll"><![CDATA[Shanghai Doll]]></entry>
+			
+		<entry id="camping_skill_name_ppt_blankcamp"><![CDATA[Place Holder]]></entry>
+
+
+		
+		<!-- Equipment -->
+
+		<entry id="puppeteer_weapon_0"><![CDATA[Grimoire 1]]></entry>
+		<entry id="puppeteer_weapon_1"><![CDATA[Grimoire 2]]></entry>
+    	<entry id="puppeteer_weapon_2"><![CDATA[Grimoire 3]]></entry>
+    	<entry id="puppeteer_weapon_3"><![CDATA[Grimoire 4]]></entry>
+    	<entry id="puppeteer_weapon_4"><![CDATA["Grimoire of Alice"]]></entry>
+    	<entry id="upgrade_tree_name_puppeteer.weapon"><![CDATA[Grimoire]]></entry>
+    	<entry id="puppeteer_armour_0"><![CDATA[Dress 1]]></entry>
+    	<entry id="puppeteer_armour_1"><![CDATA[Dress 2]]></entry> 
+    	<entry id="puppeteer_armour_2"><![CDATA[Dress 3]]></entry>
+    	<entry id="puppeteer_armour_3"><![CDATA[Dress 4]]></entry>
+    	<entry id="puppeteer_armour_4"><![CDATA["Doll's Judgement"]]></entry>
+    	<entry id="upgrade_tree_name_puppeteer.armour"><![CDATA[Master's Dress]]></entry>
+		
+		<!-- Tool Tips -->
+		
+			<!-- Mechanic -->
+				<!-- Little Legion -->
+		<entry id="buff_stat_tooltip_upgrade_discount_littleLegionTT"><![CDATA[DMG {colour_start|buff}Buffed{colour_end} by {colour_start|notable}Puppetry{colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_artfulChanterTT"><![CDATA[CRIT & {colour_start|debuff}Debuff{colour_end} chance {colour_start|buff}Buffed{colour_end} by {colour_start|notable}Puppetry{colour_end}]]></entry>
+		<entry id="buff_rule_data_tooltip_spectrumMysteryTT"><![CDATA[Next Ally to Act]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_spectrumMysteryTT"><![CDATA[{colour_start|buff}Buff:{colour_end} +%d%% DMG]]></entry>
+		<entry id="buff_rule_data_tooltip_summoningTT"><![CDATA[{colour_start|notable}Puppetry{colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_shanghaiDollTT"><![CDATA[{colour_start|buff}Buffs{colour_end} duration: {colour_start|notable}3{colour_end} {colour_start|afflicted}Attacks{colour_end}]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_houraiDollTT"><![CDATA[{colour_start|buff}Buffs{colour_end} duration: {colour_start|notable}3{colour_end} {colour_start|healhp}Friendly{colour_end} Skills]]></entry>
+		<entry id="buff_stat_tooltip_upgrade_discount_basicSummoningTT"><![CDATA[{colour_start|buff}Buff{colour_end} duration: {colour_start|notable}3{colour_end} rds]]></entry>
+		
+		
+			<!-- O SPACE CHARACTERS & MODES -->
+		<entry id="buff_rule_data_tooltip_ppt_mode"><![CDATA[]]></entry>
+		
+
+			<!-- Names -->
+		<entry id="str_pptsummon"><![CDATA[Summon]]></entry>
+		<entry id="buff_rule_data_tooltip_littleLegion"><![CDATA[Little Legion]]></entry>
+		<entry id="buff_rule_data_tooltip_artfulChanter"><![CDATA[Artful Chanter]]></entry>
+		
+			<!-- Skill Mechanics -->
+
+			
+			
+		<!-- Events -->
+		
+		
+		
+		
+		
+<!-- Barks -->
+			<!-- COME FORTH -->
+		<entry id="str_ui_actor_dot_complete"><![CDATA[]]></entry>
+ 
+			<!-- Camping Skills -->
+		<entry id="puppeteer+str_bark_ppt_blankcamp"><![CDATA[]]></entry>
+		<entry id="puppeteer+str_bark_ppt_blankcamp"><![CDATA[]]></entry>
+		<entry id="puppeteer+str_bark_ppt_blankcamp"><![CDATA[]]></entry>
+
+ 
+		<entry id="puppeteer+str_bark_first_aid"><![CDATA[]]></entry>
+		<entry id="puppeteer+str_bark_encourage"><![CDATA[]]></entry>
+		<entry id="puppeteer+str_bark_pep_talk"><![CDATA[]]></entry>
+ 
+			<!-- Roster -->
+		<entry id="puppeteer+str_stagecoach_idle"><![CDATA[]]></entry>	
+ 
+ 
+	<!-- Miscellaneous Barks -->
+	
+		<!-- puppeteer Limit --> 
+	<entry id="str_incompatible_party_member_puppeteer_limit"><![CDATA[]]></entry>
+	<entry id="str_incompatible_party_member_puppeteer_limit"><![CDATA[]]></entry>
+	<entry id="str_incompatible_party_member_puppeteer_limit"><![CDATA[]]></entry>
+	<entry id="str_incompatible_party_member_puppeteer_limit"><![CDATA[]]></entry>
+ 
+		<!-- Crit Barks -->
+ 
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_critbyhero"><![CDATA[]]></entry>
+ 
+	<!-- Boss Barks -->
+ 
+	<entry id="puppeteer+str_monster_attack_unholy_smite"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_monster_attack_unholy_judgement"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_monster_attack_unholy_curse"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_control_before_turn_siren"><![CDATA[]]></entry>	
+    <entry id="puppeteer+str_control_before_turn_siren"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_control_before_turn_siren"><![CDATA[]]></entry>	
+    <entry id="puppeteer+str_control_return_siren"><![CDATA[]]></entry>	
+    <entry id="puppeteer+str_control_return_siren"><![CDATA[]]></entry>	
+    <entry id="puppeteer+str_control_return_siren"><![CDATA[]]></entry>	
+	<entry id="puppeteer+str_monster_attack_prophet_mark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_monster_attack_prophet_mark"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_monster_attack_prophet_mark"><![CDATA[]]></entry>
+ 
+	<!-- Moving -->
+    <entry id="puppeteer+str_bark_stopmoving"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stopmoving"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_startmoving"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_startmoving"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_startmoving"><![CDATA[]]></entry>
+ 
+	<!-- Light -->
+	<entry id="puppeteer+str_bark_torch_0"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_torch_0"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_torch_0"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_torch_1"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_torch_1"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_torch_1"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_torch_2"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_torch_2"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_torch_2"><![CDATA[]]></entry>
+ 
+	<!-- Taking Damage/DoTs -->
+	<entry id="puppeteer+str_bark_stressdot"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_bigwound"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_bleeddot"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_bleeddot"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_bleeddot"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_poisondot"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_poisondot"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_poisondot"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_bigwound_ally"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_bigwound_ally"><![CDATA[]]></entry>
+ 
+	<!-- Heart Attacks --> 
+	<entry id="puppeteer+str_heart_attack"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_heart_attack_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_heart_attack_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_heart_attack_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_heart_attack_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_heart_attack_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_heart_attack_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_heart_attack_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Death's Door -->
+	<entry id="puppeteer+str_bark_deathsdoor"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_deathsdoor"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_deathsdoor"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_deathsdoorsurvive"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_deathsdoorsurvive"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_deathsdoorsurvive"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_deathsdoorsurvive_ally"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_deathsdoorsurvive_ally"><![CDATA[]]></entry>
+ 
+	<!-- Stress -->
+	<entry id="puppeteer+str_bark_increasingstress"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_increasingstress"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_increasingstress"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_increasingstress"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_bark_increasingstress"><![CDATA[]]></entry>
+ 
+	<!-- Skill Barks -->
+		<!--Blanks, Intentional -->
+	<entry id="str_littleLegion"><![CDATA[]]></entry>
+	<entry id="str_littleLegion_react"><![CDATA[]]></entry>
+
+
+	
+		<!-- puppeteer's Chuuni Bullshit -->
+	<entry id="puppeteer+str_littleLegion"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_littleLegion"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_littleLegion"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_littleLegion"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_littleLegion"><![CDATA[]]></entry>
+		<!-- puppeteer's Reactions -->
+			<!--Miko-->
+	<entry id="puppeteer+str_miko_spellcard_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_miko_spellcard_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_miko_spellcard_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_miko_spellcard_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_miko_spellcard_react"><![CDATA[]]></entry>
+			<!--Maid-->
+	<entry id="puppeteer+str_the_world_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_the_world_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_the_world_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_the_world_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_the_world_react"><![CDATA[]]></entry>
+			<!--Celestial-->
+	<entry id="puppeteer+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_tenshi_earthquake_spellcard_react"><![CDATA[]]></entry>
+			<!--Magician-->
+	<entry id="puppeteer+str_master_spark_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_master_spark_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_master_spark_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_master_spark_react"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_master_spark_react"><![CDATA[]]></entry>
+ 
+	<!-- Activities -->
+	<entry id="puppeteer+str_bar_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bar_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bar_committed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_brothel_committed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_brothel_committed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_brothel_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_gambling_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_gambling_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_gambling_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_meditation_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_meditation_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_meditation_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_flagellation_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_flagellation_committed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_flagellation_committed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_prayer_committed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_prayer_committed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_prayer_committed"><![CDATA[]]></entry>
+ 
+	<!-- Roster -->
+	<entry id="puppeteer+str_roster_list_low_stress_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_low_stress_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_low_stress_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_medium_stress_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_medium_stress_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_medium_stress_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_high_stress_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_high_stress_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_high_stress_bark"><![CDATA[]]></entry>
+	
+    <entry id="puppeteer+str_roster_list_fearful_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_fearful_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_paranoid_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_paranoid_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_depressed_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_depressed_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_selfish_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_selfish_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_abusive_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_abusive_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_masochistic_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_masochistic_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_irrational_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_irrational_bark"><![CDATA[]]></entry>
+	
+    <entry id="puppeteer+str_roster_list_bar_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_bar_bark"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_roster_list_brothel_bark"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_roster_list_brothel_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_gambling_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_gambling_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_meditation_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_meditation_bark"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_roster_list_prayer_bark"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_roster_list_prayer_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_flagellation_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_flagellation_bark"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_darkest_dungeon_survivor_bark"><![CDATA[]]></entry>
+ 
+ 
+ 
+	<!-- Afflictions -->
+	<!-- Abusive -->
+ 
+    <entry id="puppeteer+str_afflicted_abusive"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_abusive"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_abusive"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_abusive"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Random -->
+ 
+    <entry id="puppeteer+str_random_command_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_random_command_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_random_command_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Friendly Fire -->
+ 
+    <entry id="puppeteer+str_attack_friendly_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Camp Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_camp_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Ally Attack Hit -->
+ 
+    <entry id="puppeteer+str_comment_ally_attack_hit_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_attack_hit_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Ally Attack Missed -->
+ 
+    <entry id="puppeteer+str_comment_ally_attack_missed_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_attack_missed_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Ally Hit -->
+ 
+    <entry id="puppeteer+str_comment_ally_hit_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_hit_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Block Move -->
+ 
+    <entry id="puppeteer+str_block_move_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_move_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Block Camping Skill Performer -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_performer_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Abusive: Block Camping Skill -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_target_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_target_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_target_abusive"><![CDATA[]]></entry>
+ 
+	<!-- Depressed -->
+ 
+    <entry id="puppeteer+str_afflicted_depressed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_depressed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_depressed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_depressed"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Move Forward -->
+ 
+    <entry id="puppeteer+str_change_pos_fwd_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_fwd_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Move Back -->
+ 
+    <entry id="puppeteer+str_change_pos_back_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_back_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Ignore -->
+ 
+    <entry id="puppeteer+str_ignore_command_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_ignore_command_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_ignore_command_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Meal -->
+ 
+    <entry id="puppeteer+str_block_camping_meal_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_meal_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Random -->
+ 
+    <entry id="puppeteer+str_random_command_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_random_command_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_random_command_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Camp Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_camp_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Mark Self -->
+ 
+    <entry id="puppeteer+str_mark_self_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_mark_self_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Attack Self -->
+ 
+    <entry id="puppeteer+str_attack_self_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_attack_self_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Retreat -->
+ 
+    <entry id="puppeteer+str_block_combat_retreat_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_combat_retreat_depressed"><![CDATA[]]></entry>
+ 
+		<!-- Depressed: Block Item -->
+ 
+    <entry id="puppeteer+str_block_item_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_item_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Heal -->
+ 
+    <entry id="puppeteer+str_block_heal_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_heal_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_heal_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Camping Skill Performer -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_performer_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Depressed: Block Camping Skill -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_target_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_target_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_target_depressed"><![CDATA[]]></entry>
+ 
+		<!-- Depressed: Block Buff -->
+ 
+    <entry id="puppeteer+str_block_buff_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_buff_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_buff_depressed"><![CDATA[]]></entry>
+ 
+	<!-- Fearful -->
+ 
+	<entry id="puppeteer+str_afflicted_fearful"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_fearful"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_fearful"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Move Back -->
+ 
+    <entry id="puppeteer+str_change_pos_back_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_back_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_back_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: stress -->
+    <entry id="puppeteer+str_bark_stress_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fear: Ignore -->
+ 
+    <entry id="puppeteer+str_ignore_command_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_ignore_command_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Camp Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_camp_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_fearful"><![CDATA[]]></entry>
+ 
+ 
+	<!-- Fearful: Self Hit -->
+ 
+    <entry id="puppeteer+str_comment_self_hit_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_self_hit_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Self Missed -->
+ 
+    <entry id="puppeteer+str_comment_self_missed_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_self_missed_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Ally Attack Missed -->
+ 
+    <entry id="puppeteer+str_comment_ally_attack_missed_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_attack_missed_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Ally Hit -->
+ 
+    <entry id="puppeteer+str_comment_ally_hit_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_hit_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Ally Missed -->
+ 
+    <entry id="puppeteer+str_comment_ally_missed_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_missed_fearful"><![CDATA[]]></entry>
+ 
+ 
+ 
+	<!-- Fearful: Block Move -->
+ 
+    <entry id="puppeteer+str_block_move_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_move_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Fearful: Block Camping Skill Performer -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_performer_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_fearful"><![CDATA[]]></entry>
+ 
+	<!-- Irrational -->
+ 
+    <entry id="puppeteer+str_afflicted_irrational"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_irrational"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_irrational"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Move Forward -->
+ 
+    <entry id="puppeteer+str_change_pos_fwd_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_fwd_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Move Back -->
+ 
+    <entry id="puppeteer+str_change_pos_back_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_back_irrational"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_monster_user_selected_targets_kill_pill"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_back_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Ignore -->
+ 
+    <entry id="puppeteer+str_ignore_command_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_ignore_command_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Friendly fire -->
+ 
+    <entry id="puppeteer+str_attack_friendly_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Meal -->
+ 
+    <entry id="puppeteer+str_block_camping_meal_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_meal_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Random -->
+ 
+    <entry id="puppeteer+str_random_command_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_random_command_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_random_command_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Camp Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_camp_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Mark Self -->
+ 
+    <entry id="puppeteer+str_mark_self_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_mark_self_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Missed Self -->
+ 
+    <entry id="puppeteer+str_comment_self_missed_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_self_missed_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Ally Attack Hit -->
+ 
+    <entry id="puppeteer+str_comment_ally_attack_hit_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_attack_hit_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Ally Attack Missed -->
+ 
+    <entry id="puppeteer+str_comment_ally_attack_missed_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_attack_missed_irrational"><![CDATA[]]></entry>	
+ 
+	<!-- Irrational: Ally Missed -->
+ 
+    <entry id="puppeteer+str_comment_ally_missed_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_missed_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Move -->
+ 
+    <entry id="puppeteer+str_block_move_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_move_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Item -->
+ 
+    <entry id="puppeteer+str_block_item_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_item_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Heal -->
+ 
+    <entry id="puppeteer+str_block_heal_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_heal_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Buff -->
+ 
+    <entry id="puppeteer+str_block_buff_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_buff_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Camp Skill Performer -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_performer_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Camp Skill -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_target_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_target_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Attack Self -->
+ 
+    <entry id="puppeteer+str_attack_self_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_attack_self_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Block Retreat -->
+ 
+    <entry id="puppeteer+str_block_combat_retreat_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_combat_retreat_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Hit Self -->
+ 
+    <entry id="puppeteer+str_comment_self_hit_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_self_hit_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Irrational: Ally Hit -->
+ 
+    <entry id="puppeteer+str_comment_ally_hit_irrational"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_hit_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic -->
+	
+    <entry id="puppeteer+str_afflicted_masochistic"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_masochistic"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_masochistic"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Move Forward -->
+	
+    <entry id="puppeteer+str_change_pos_fwd_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_fwd_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Stress  -->
+ 
+    <entry id="puppeteer+str_bark_stress_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Random -->
+ 
+    <entry id="puppeteer+str_random_command_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_random_command_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Meal -->
+ 
+    <entry id="puppeteer+str_block_camping_meal_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_meal_masochistic"><![CDATA[]]></entry>
+ 
+		<!-- Masochistic: Mark Self -->
+	
+    <entry id="puppeteer+str_mark_self_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_mark_self_masochistic"><![CDATA[]]></entry>
+
+	<!-- Masochistic: Attack Self -->
+ 
+    <entry id="puppeteer+str_attack_self_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_attack_self_masochistic"><![CDATA[]]></entry>
+ 
+		<!-- Masochistic: Block Retreat -->
+ 
+    <entry id="puppeteer+str_block_combat_retreat_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_combat_retreat_masochistic"><![CDATA[]]></entry>
+ 
+		<!-- Masochistic: Self Hit -->
+ 
+    <entry id="puppeteer+str_comment_self_hit_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_self_hit_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Self Missed -->
+ 
+    <entry id="puppeteer+str_comment_self_missed_masochistic"><![CDATA[]]></entry> 
+    <entry id="puppeteer+str_comment_self_missed_masochistic"><![CDATA[]]></entry>
+	
+	<!-- Masochistic: Ally Hit -->
+	
+    <entry id="puppeteer+str_comment_ally_hit_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_hit_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Move -->
+	
+    <entry id="puppeteer+str_block_move_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_move_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Item -->
+ 
+    <entry id="puppeteer+str_block_item_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_item_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Heal -->
+ 
+    <entry id="puppeteer+str_block_heal_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_heal_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Buff -->
+ 
+    <entry id="puppeteer+str_block_buff_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_buff_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Camping Skill Performer -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_performer_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Block Camping Skill -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_target_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_target_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Masochistic: Camp Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_camp_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_masochistic"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid -->
+	
+    <entry id="puppeteer+str_afflicted_paranoid"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_paranoid"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_paranoid"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_paranoid"><![CDATA[]]></entry>
+
+ 
+	<!-- Paranoid: Move Back -->
+ 
+    <entry id="puppeteer+str_change_pos_back_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_back_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_paranoid"><![CDATA[]]></entry>
+
+ 
+	<!-- Paranoid: Ignore -->
+ 
+    <entry id="puppeteer+str_ignore_command_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_ignore_command_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Random -->
+ 
+    <entry id="puppeteer+str_random_command_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_random_command_paranoid"><![CDATA[]]></entry>
+
+ 
+	<!-- Paranoid: Friendly Fire -->
+ 
+    <entry id="puppeteer+str_attack_friendly_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Meal -->
+ 
+    <entry id="puppeteer+str_block_camping_meal_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_meal_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Camp Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_camp_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_paranoid"><![CDATA[]]></entry>
+
+ 
+	<!-- Paranoid: Self Hit -->
+ 
+    <entry id="puppeteer+str_comment_self_hit_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_self_hit_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Self Missed -->
+ 
+    <entry id="puppeteer+str_comment_self_missed_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_self_missed_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Ally attack Missed -->
+ 
+    <entry id="puppeteer+str_comment_ally_attack_missed_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_attack_missed_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Ally Hit -->
+ 
+    <entry id="puppeteer+str_comment_ally_hit_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_hit_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Ally Missed -->
+	
+    <entry id="puppeteer+str_comment_ally_missed_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_missed_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Move -->
+ 
+    <entry id="puppeteer+str_block_move_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_move_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Item -->
+ 
+    <entry id="puppeteer+str_block_item_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_item_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Heal -->
+ 
+    <entry id="puppeteer+str_block_heal_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_heal_paranoid"><![CDATA[]]></entry>
+ 
+	<!-- Paranoid: Block Buff -->
+ 
+    <entry id="puppeteer+str_block_buff_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_buff_paranoid"><![CDATA[]]></entry>
+ 
+		<!-- Paranoid: Block Camping Skill Performer -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_performer_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_paranoid"><![CDATA[]]></entry>
+ 
+		<!-- Paranoid: Block Camping Skill Target -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_target_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_target_paranoid"><![CDATA[]]></entry>
+
+		<!-- Paranoid: Block Retreat -->
+ 
+    <entry id="puppeteer+str_block_combat_retreat_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_combat_retreat_paranoid"><![CDATA[]]></entry>
+ 
+		<!-- Selfish -->
+	
+    <entry id="puppeteer+str_afflicted_selfish"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_selfish"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_selfish"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_afflicted_selfish"><![CDATA[]]></entry>
+
+ 
+		<!-- Selfish: Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Move Forward -->
+ 
+    <entry id="puppeteer+str_change_pos_fwd_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_fwd_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Move Back -->
+ 
+    <entry id="puppeteer+str_change_pos_back_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_back_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Ignore -->
+ 
+    <entry id="puppeteer+str_ignore_command_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_ignore_command_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Random Command -->
+	
+    <entry id="puppeteer+str_random_command_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_random_command_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Camp Stress -->
+ 
+    <entry id="puppeteer+str_bark_stress_camp_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Self Hit -->
+ 
+    <entry id="puppeteer+str_comment_self_hit_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_self_hit_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Ally Hit -->
+ 
+    <entry id="puppeteer+str_comment_ally_attack_hit_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_attack_hit_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Ally Attack Missed -->
+ 
+    <entry id="puppeteer+str_comment_ally_attack_missed_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_attack_missed_selfish"><![CDATA[]]></entry>
+ 
+		<!-- Selfish: Block Camping Skill Performer -->
+ 
+    <entry id="puppeteer+str_block_camping_skill_performer_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_selfish"><![CDATA[]]></entry>
+		
+		<!-- Refracted --> 
+		
+	<entry id="puppeteer+str_afflicted_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Stress Camp --> 
+    <entry id="puppeteer+str_bark_stress_camp_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_camp_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Bark Stress --> 
+    <entry id="puppeteer+str_bark_stress_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_bark_stress_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Back --> 
+    <entry id="puppeteer+str_change_pos_back_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_back_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Forward --> 
+    <entry id="puppeteer+str_change_pos_fwd_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_change_pos_fwd_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Ignore --> 
+    <entry id="puppeteer+str_ignore_command_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_ignore_command_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Attack Friendly --> 
+    <entry id="puppeteer+str_attack_friendly_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Attack Self --> 
+    <entry id="puppeteer+str_attack_self_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_attack_self_color_madness"><![CDATA[]]></entry>
+
+	
+		<!-- Refracted: Mark Self --> 
+    <entry id="puppeteer+str_mark_self_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_mark_self_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Self Hit --> 
+    <entry id="puppeteer+str_comment_self_hit_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_self_hit_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Ally Hit --> 
+    <entry id="puppeteer+str_comment_ally_hit_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_hit_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Ally Attack Hit --> 
+    <entry id="puppeteer+str_comment_ally_attack_hit_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_ally_attack_hit_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: move --> 
+    <entry id="puppeteer+str_comment_move_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_move_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Curio --> 
+    <entry id="puppeteer+str_comment_curio_interaction_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_curio_interaction_color_madness"><![CDATA[]]></entry>
+
+	
+		<!-- Refracted: Trap --> 
+    <entry id="puppeteer+str_comment_trap_triggered_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_comment_trap_triggered_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Block Meal --> 
+    <entry id="puppeteer+str_block_camping_meal_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_meal_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Heart Attack --> 
+    <entry id="puppeteer+str_heart_attack_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Block Camp Target --> 
+    <entry id="puppeteer+str_block_camping_skill_target_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_target_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: block Camp Performer --> 
+    <entry id="puppeteer+str_block_camping_skill_performer_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_camping_skill_performer_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Block Heal --> 
+    <entry id="puppeteer+str_block_heal_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_heal_color_madness"><![CDATA[]]></entry>
+
+	
+		<!-- Refracted: Block Buff --> 
+    <entry id="puppeteer+str_block_buff_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_buff_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Block Effect --> 
+    <entry id="puppeteer+str_block_effect_color_madness"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_block_effect_color_madness"><![CDATA[]]></entry>
+
+		<!-- Refracted: Consume Item --> 
+    <entry id="puppeteer+str_consume_item_color_madness"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_consume_item_color_madness"><![CDATA[]]></entry>
+	
+		<!-- Refracted: Roster List --> 
+    <entry id="puppeteer+str_roster_list_color_madness_bark"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_roster_list_color_madness_bark"><![CDATA[]]></entry>
+ 
+	<!-- Curio Strings -->
+
+	<entry id="puppeteer+trigger_curio_quirk_compulsive"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_compulsive"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_compulsive"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_curious"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_curious"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_curious"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_dark_temptation"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_guilty_conscience"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_kleptomaniac"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_bloodthirsty"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_hieromania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_ablutomania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_dacnomania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_egomania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_hylomania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_sitiomania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_plutomania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_necromania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_dipsomania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_paranormania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_hagiomania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_demonomania"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_quirk_tapeworm"><![CDATA[]]></entry>
+	
+    <entry id="puppeteer+str_keep_loot_string"><![CDATA[]]></entry>
+
+    <entry id="puppeteer+trigger_curio_affliction_fearful"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_affliction_paranoid"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_affliction_masochistic"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_affliction_abusive"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_affliction_selfish"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_affliction_depressed"><![CDATA[]]></entry>
+    <entry id="puppeteer+trigger_curio_affliction_irrational"><![CDATA[]]></entry>
+ 
+	<!-- Virtuous -->
+	<entry id="puppeteer+str_block_effect_vigorous"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_effect_powerful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_effect_focused"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_effect_courageous"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_block_effect_stalwart"><![CDATA[]]></entry>
+	
+	<!-- Courageous -->
+
+    <entry id="puppeteer+str_virtued_courageous"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_virtued_courageous"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_virtued_courageous"><![CDATA[]]></entry>
+ 
+	<!-- Courageous: heal party -->
+ 
+    <entry id="puppeteer+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_stress_heal_party_courageous"><![CDATA[]]></entry>
+ 
+	<!-- Focused -->
+    <entry id="puppeteer+str_virtued_focused"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_virtued_focused"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_virtued_focused"><![CDATA[]]></entry>
+ 
+ 
+	<!-- Focused: buff other -->
+
+    <entry id="puppeteer+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_buff_random_party_member_focused"><![CDATA[]]></entry>
+ 
+	<!-- Powerful -->
+ 
+    <entry id="puppeteer+str_virtued_powerful"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_virtued_powerful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_virtued_powerful"><![CDATA[]]></entry>
+ 
+	<!-- Powerful: buff party -->
+ 
+    <entry id="puppeteer+str_buff_party_powerful"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_buff_party_powerful"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_buff_party_powerful"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_buff_party_powerful"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_buff_party_powerful"><![CDATA[]]></entry>
+ 
+	<!-- Stalwart -->
+ 
+    <entry id="puppeteer+str_virtued_stalwart"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_virtued_stalwart"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_virtued_stalwart"><![CDATA[]]></entry>
+ 
+	<!-- stalwart: Heal Self -->
+ 
+    <entry id="puppeteer+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_stress_heal_self_stalwart"><![CDATA[]]></entry>
+ 
+	<!-- Vigorous -->
+ 
+    <entry id="puppeteer+str_virtued_vigorous"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_virtued_vigorous"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_virtued_vigorous"><![CDATA[]]></entry>
+ 
+	<!-- Vigorous: Heal Self -->
+ 
+    <entry id="puppeteer+str_heal_self_vigorous"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_heal_self_vigorous"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_heal_self_vigorous"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_heal_self_vigorous"><![CDATA[]]></entry>
+	<entry id="puppeteer+str_heal_self_vigorous"><![CDATA[]]></entry>
+ 
+ 
+ 
+	<!-- Subtitles -->
+	<entry id="str_vo_town_recruit_puppeteer_0"><![CDATA[]]></entry>
+	<entry id="str_vo_town_event_bonus_recruit_puppeteer"><![CDATA[]]></entry>
+	<entry id="str_vo_town_idle_resolve_level_puppeteer"><![CDATA[]]></entry>
+ 
+	<!-- Crimson Court Stuff -->
+ 
+	<!-- Prisoner -->
+	<entry id="puppeteer+str_prisoner_help_me"><![CDATA[]]></entry>
+    <entry id="puppeteer+str_prisoner_rescue_thanks"><![CDATA[]]></entry>
+ 
+ 
+	<!-- Monster Attacks -->
+ 
+
+
+	</language>
+
+</root>
