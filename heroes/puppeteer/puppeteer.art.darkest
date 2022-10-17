@@ -21,7 +21,7 @@ combat_skill: .id "houraiDoll" .icon "one" .anim "alice_houraiph"
 combat_skill: .id "shanghaiDoll" .icon "seven" .anim "alice_houraiph"
 
 combat_move_skill: .id "move" .icon "generic_move" .anim "idle"
-riposte_skill: .id "riposte1" .anim "alice_riposteph"
+riposte_skill: .id "riposte1" .anim "alice_ripositeph"
 
 act_out_display: .attack_friendly_anim "attack_upsweep" .attack_friendly_sfx "alice_legionph"
 
